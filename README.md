@@ -1,2 +1,2 @@
 # Termux-VIP
-All termux vip, pto, premium tools
+All Termux #vip, #pro, #premium tools
