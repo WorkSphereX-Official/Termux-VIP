@@ -1,2 +1,2 @@
 # Termux-VIP
-All Termux #vip, #pro, #premium tools
+All Termux Vip, Pro, Premium Tools in Free 🆓 
